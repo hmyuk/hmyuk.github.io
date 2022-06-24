@@ -18,7 +18,7 @@ main:
 docs:
   - title: "IT"
     children:
-      - title : "Github pages Blog 만들기"
-        url : /github_pages/
-      - title : "vue.js"
-        url : /vues/
+      - title : "Category"
+        url : /categories/
+      - title : "Tags"
+        url : /tags/
